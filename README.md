@@ -5,4 +5,4 @@
 
 - 🏢 I'm currently working as a PhD student for the **Spanish National Research Council (CSIC)** at the **Institute of Physics of Cantabria (IFCA)**, Spain.
 - 🌱 Trying to learn all about **MLOps** and **Machine Learning**.
-- 👀 Also Interested in **Reinforcement Learning** 🤖.
+- 👀 Also Interested in **Reinforcement Learning** 🤖 and **Bio-inspired Computing** :honeybee:.
